@@ -1,0 +1,6 @@
+URL=https://uat-recap.htcinc.com
+ChromePath=/home/likewise-open/HTCINDIA/mkarthik/Downloads/chromedriver
+IEPath=
+ExcelPath=
+----Chrome,IE,Firefox,Html---
+Browser:Chrome
